@@ -22,7 +22,7 @@
     "@progress/kendo-angular-scheduler": "^1.1.4",
     "@progress/kendo-theme-bootstrap": "^4.10.2",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
